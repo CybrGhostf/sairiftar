@@ -8,26 +8,26 @@
         "ramazan",
         "ezan"
     ],
-    "repository": "https://github.com/kursadHD/IftarSahur_bot",
+    "repository": "https://github.com/CybrGhostf/sairiftar",
     "env": {
         "BOT_TOKEN": {
-            "description": "@BotFather'dan alın",
+            "description": "5134875988:AAGSd9gbdoxTiMJzu0IyMoq6zJ7QoErEMUE",
             "required": true
         },
         "BOT_USERNAME": {
-            "description": "Botunuzun kullanıcı adı",
+            "description": "@SairRamazanbot",
             "required": true
         },
         "API_ID": {
-            "description": "https://my.telegram.org/apps adresinden alın",
+            "description": "1371984",
             "required": true
         },
         "API_HASH": {
-            "description": "https://my.telegram.org/apps adresinden alın",
+            "description": "48f401d25ec510f2274f4655cf86c638",
             "required": true
         },
         "SUDO": {
-            "description": "Telegram id'niz",
+            "description": "1496541994",
             "required": false
         }
     },
